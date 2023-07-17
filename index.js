@@ -1,11 +1,4 @@
-const inquirer = require('inquirer');
+const CLI = require('./lib/CLI.js');
 
-const svg = `<svg
-width="300px"
-height="200px"
-xmlns="http://www.w3.org/2000/svg"`;
-
-inquirer.
-    prompt([
-        
-    ]);
+const cli = new CLI();
+cli.run();
