@@ -21,8 +21,9 @@
   ## Usage
   To run SVG Logo Maker, simply open terminal at the root directory, then run 'node index'.  A series of prompts will appear.  Once the prompts have been answered, a .svg logo will be generated in examples/logo.svg.  Enjoy! 
 
-  walkthrough video:
-
+  Walkthrough video:
+  https://drive.google.com/file/d/1jxffOcCbpFhjv08VeF8BfZIiZvHJCZUf/view
+  
   ## License
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
